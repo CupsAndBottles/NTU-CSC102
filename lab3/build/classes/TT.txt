@@ -1,0 +1,174 @@
+Script started on Thu 30 Sep 2010 01:51:26 PM SGT
+
+Warning: c137:3 is taken because of /tmp/.X3-lock
+Remove this file if there is no X server c137:3
+
+Warning: c137:5 is taken because of /tmp/.X5-lock
+Remove this file if there is no X server c137:5
+
+New 'c137:6 (hp101604)' desktop is c137:6
+
+Starting applications specified in /home/student21/hp101604/.vnc/xstartup
+Log file is /home/student21/hp101604/.vnc/c137:6.log
+
+]0;hp101604@c137:~/csc102/lab3/build/classes[?1034h[hp101604@c137 classes]$ java P2[K1
+Please enter a char or '#' to quit: 
+a
+vowel
+Please enter a char or '#' to quit: 
+d
+neither
+Please enter a char or '#' to quit: 
+4
+digit
+Please enter a char or '#' to quit: 
+!
+neither
+Please enter a char or '#' to quit: 
+#
+program terminated.
+]0;hp101604@c137:~/csc102/lab3/build/classes[hp101604@c137 classes]$ java P1[K2
+Please enter Starting Value: 
+1
+Please enter Ending Value: 
+5
+Please enter Increment: 
+1
+===========================
+
+S$	US$
+---------------------
+1	1.82
+2	3.64
+3	5.46
+4	7.28
+5	9.1
+===========================
+
+S$	US$
+---------------------
+1	1.82
+2	3.64
+3	5.46
+4	7.28
+5	9.1
+===========================
+
+S$	US$
+---------------------
+1	1.82
+2	3.64
+3	5.46
+4	7.28
+5	9.1
+]0;hp101604@c137:~/csc102/lab3/build/classes[hp101604@c137 classes]$ java P2
+Please enter Starting Value: 
+0
+Please enter Ending Value: 
+40
+Please enter Increment: 
+5
+===========================
+
+S$	US$
+---------------------
+0	0.0
+5	9.1
+10	18.2
+15	27.3
+20	36.4
+25	45.5
+30	54.6
+35	63.7
+40	72.8
+===========================
+
+S$	US$
+---------------------
+0	0.0
+5	9.1
+10	18.2
+15	27.3
+20	36.4
+25	45.5
+30	54.6
+35	63.7
+40	72.8
+===========================
+
+S$	US$
+---------------------
+0	0.0
+5	9.1
+10	18.2
+15	27.3
+20	36.4
+25	45.5
+30	54.6
+35	63.7
+40	72.8
+]0;hp101604@c137:~/csc102/lab3/build/classes[hp101604@c137 classes]$ java P2
+Please enter Starting Value: 
+40
+Please enter Ending Value: 
+0
+Please enter Increment: 
+5
+Invalid Input, please check that the Starting Value is < Ending Value and increment fits within the range.
+]0;hp101604@c137:~/csc102/lab3/build/classes[hp101604@c137 classes]$ java P2[K3
+Please enter a length: 
+0
+Error input!!
+]0;hp101604@c137:~/csc102/lab3/build/classes[hp101604@c137 classes]$ java P3
+Please enter a length: 
+2
+Please enter a character: 
++
+
+++
+++
+]0;hp101604@c137:~/csc102/lab3/build/classes[hp101604@c137 classes]$ java P3
+Please enter a length: 
+4
+Please enter a character: 
+*
+
+****
+****
+****
+****
+]0;hp101604@c137:~/csc102/lab3/build/classes[hp101604@c137 classes]$ java P3[K4
+Please enter a height: 
+0
+Error input!!
+]0;hp101604@c137:~/csc102/lab3/build/classes[hp101604@c137 classes]$ java P4
+Please enter a height: 
+3
+AA
+BBAA
+AABBAA
+]0;hp101604@c137:~/csc102/lab3/build/classes[hp101604@c137 classes]$ java P4
+Please enter a height: 
+7
+AA
+BBAA
+AABBAA
+BBAABBAA
+AABBAABBAA
+BBAABBAABBAA
+AABBAABBAABBAA
+]0;hp101604@c137:~/csc102/lab3/build/classes[hp101604@c137 classes]$ java P4[K5
+Please enter the value of x: 
+0.9
+0.7298154560111498
+]0;hp101604@c137:~/csc102/lab3/build/classes[hp101604@c137 classes]$ java P5
+Please enter the value of x: 
+0
+0.0
+]0;hp101604@c137:~/csc102/lab3/build/classes[hp101604@c137 classes]$ java P5
+Please enter the value of x: 
+-0.9
+-0.7298154560111498
+]0;hp101604@c137:~/csc102/lab3/build/classes[hp101604@c137 classes]$ exit
+
+Script done on Thu 30 Sep 2010 01:54:51 PM SGT

@@ -1,0 +1,274 @@
+Script started on Thu 07 Oct 2010 01:13:20 PM SGT
+[hp101604@c137 classes]$ java Lab4p
+Perform the following methods:
+1: miltiplication test
+2: quotient using division by subtraction
+3: remainder using division by subtraction
+4: count the number of digits
+5: position of a digit
+6: extract all odd digits
+7: quit
+1
+How much is 7 times 0? 7
+How much is 8 times 4? 0
+How much is 6 times 4? 0
+How much is 0 times 8? 8
+How much is 8 times 2? 0
+0 out of 5 are correct.
+
+
+Perform the following methods:
+1: miltiplication test
+2: quotient using division by subtraction
+3: remainder using division by subtraction
+4: count the number of digits
+5: position of a digit
+6: extract all odd digits
+7: quit
+1
+How much is 4 times 9? 0
+How much is 1 times 5? 5
+How much is 5 times 4? 0
+How much is 9 times 5? 0
+How much is 0 times 8? 8
+1 out of 5 are correct.
+
+
+Perform the following methods:
+1: miltiplication test
+2: quotient using division by subtraction
+3: remainder using division by subtraction
+4: count the number of digits
+5: position of a digit
+6: extract all odd digits
+7: quit
+1
+How much is 9 times 3? 27
+How much is 5 times 5? 25
+How much is 2 times 6? 12
+How much is 3 times 4? 12
+How much is 5 times 5? 25
+5 out of 5 are correct.
+
+
+Perform the following methods:
+1: miltiplication test
+2: quotient using division by subtraction
+3: remainder using division by subtraction
+4: count the number of digits
+5: position of a digit
+6: extract all odd digits
+7: quit
+2
+M : 4
+N : 7
+4 / 7 = 0
+
+
+Perform the following methods:
+1: miltiplication test
+2: quotient using division by subtraction
+3: remainder using division by subtraction
+4: count the number of digits
+5: position of a digit
+6: extract all odd digits
+7: quit
+2
+M : 7
+N : 7
+7 / 7 = 1
+
+
+Perform the following methods:
+1: miltiplication test
+2: quotient using division by subtraction
+3: remainder using division by subtraction
+4: count the number of digits
+5: position of a digit
+6: extract all odd digits
+7: quit
+2
+M : 25
+N : 7
+25 / 7 = 3
+
+
+Perform the following methods:
+1: miltiplication test
+2: quotient using division by subtraction
+3: remainder using division by subtraction
+4: count the number of digits
+5: position of a digit
+6: extract all odd digits
+7: quit
+3
+M : 4
+N : 7
+4 % 7 = 4
+
+
+Perform the following methods:
+1: miltiplication test
+2: quotient using division by subtraction
+3: remainder using division by subtraction
+4: count the number of digits
+5: position of a digit
+6: extract all odd digits
+7: quit
+3
+M : 7
+N : 7
+7 % 7 = 0
+
+
+Perform the following methods:
+1: miltiplication test
+2: quotient using division by subtraction
+3: remainder using division by subtraction
+4: count the number of digits
+5: position of a digit
+6: extract all odd digits
+7: quit
+3
+M : 25
+N : 7
+25 % 7 = 4
+
+
+Perform the following methods:
+1: miltiplication test
+2: quotient using division by subtraction
+3: remainder using division by subtraction
+4: count the number of digits
+5: position of a digit
+6: extract all odd digits
+7: quit
+4
+n : -12
+Count - Error input!!
+
+Perform the following methods:
+1: miltiplication test
+2: quotient using division by subtraction
+3: remainder using division by subtraction
+4: count the number of digits
+5: position of a digit
+6: extract all odd digits
+7: quit
+4
+n : 123
+Count - 3
+
+Perform the following methods:
+1: miltiplication test
+2: quotient using division by subtraction
+3: remainder using division by subtraction
+4: count the number of digits
+5: position of a digit
+6: extract all odd digits
+7: quit
+4
+n : 121456
+Count - 6
+
+Perform the following methods:
+1: miltiplication test
+2: quotient using division by subtraction
+3: remainder using division by subtraction
+4: count the number of digits
+5: position of a digit
+6: extract all odd digits
+7: quit
+5
+n : 12345
+digit : 3
+position = 3
+
+
+Perform the following methods:
+1: miltiplication test
+2: quotient using division by subtraction
+3: remainder using division by subtraction
+4: count the number of digits
+5: position of a digit
+6: extract all odd digits
+7: quit
+5
+n : 123
+digit : 4
+position = -1
+
+
+Perform the following methods:
+1: miltiplication test
+2: quotient using division by subtraction
+3: remainder using division by subtraction
+4: count the number of digits
+5: position of a digit
+6: extract all odd digits
+7: quit
+5
+n : 12145
+digit : 1
+position = 3
+
+
+Perform the following methods:
+1: miltiplication test
+2: quotient using division by subtraction
+3: remainder using division by subtraction
+4: count the number of digits
+5: position of a digit
+6: extract all odd digits
+7: quit
+6
+n : 12345
+oddDigits = 135
+
+Perform the following methods:
+1: miltiplication test
+2: quotient using division by subtraction
+3: remainder using division by subtraction
+4: count the number of digits
+5: position of a digit
+6: extract all odd digits
+7: quit
+6
+n : 54123
+oddDigits = 513
+
+Perform the following methods:
+1: miltiplication test
+2: quotient using division by subtraction
+3: remainder using division by subtraction
+4: count the number of digits
+5: position of a digit
+6: extract all odd digits
+7: quit
+6
+n : 246
+oddDigits = -1
+
+Perform the following methods:
+1: miltiplication test
+2: quotient using division by subtraction
+3: remainder using division by subtraction
+4: count the number of digits
+5: position of a digit
+6: extract all odd digits
+7: quit
+6
+n : -1
+oddDigits = Error input!!
+
+Perform the following methods:
+1: miltiplication test
+2: quotient using division by subtraction
+3: remainder using division by subtraction
+4: count the number of digits
+5: position of a digit
+6: extract all odd digits
+7: quit
+hp101604@c137:~/csc102/lab4/build/classes[hp101604@c137 classes]$ exit
+
+Script done on Thu 07 Oct 2010 01:19:56 PM SGT

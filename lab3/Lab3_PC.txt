@@ -1,0 +1,169 @@
+P1
+
+DECLARE inputChar ASCIIref
+
+INITIALISE Scanner
+
+
+DO
+
+PRINT Please enter a char or '#' to quit:
+
+READ inputChar (in Lowercase)
+
+
+SET ASCIIref = inputChar CAST TO INTEGER
+
+
+IF (ASCIIref >= 48 AND ASCIIref <= 57)
+    PRINT digit
+ELSE IF ASCIIref = 97 OR ASCIIref = 101 OR ASCIIref = 105 OR ASCIIref = 111 OR ASCIIref = 117
+    PRINT vowel
+ELSE IF ASCIIref = 35
+    PRINT program terminated.
+ELSE 
+    PRINT neither
+END IF
+
+ 
+WHILE inputChar NOT '#'
+
+
+
+
+
+P2
+
+
+DECLARE startVal, endVal, increment
+
+INITIALISE Scanner
+
+PRINT input prompt
+READ startVal
+
+PRINT input prompt
+READ endVal
+
+PRINT input prompt
+READ increment
+
+
+VALIDATE INPUT
+
+PRINT HEADER
+
+
+FOR startVal TO endVal STEP increment
+
+	PRINT value <tab> value MULTIPLY US_SG_RATE
+
+END FOR
+
+
+WHILE startVal < endVal 
+
+	PRINT value <tab> value MULTIPLY US_SG_RATE
+	INCREMENT startVal
+
+END WHILE
+
+
+DO startVal < endVal 
+
+	PRINT value <tab> value MULTIPLY US_SG_RATE
+	INCREMENT startVal
+
+WHILE startVal < endVal 
+
+
+
+
+P3
+
+
+DECLARE length display
+
+INITIALISE Scanner
+
+
+READ length
+READ display
+
+
+FOR 0 TO length
+
+	FOR 0 TO length
+
+		PRINT display
+
+	END FOR	
+
+END FOR
+
+
+
+PRINT grade 
+
+
+
+P4
+
+
+DECLARE height output
+
+INITIALISE Scanner
+
+
+READ height
+
+
+
+FOR 1 TO height
+
+	IF i MOD 2 EQUALS 0
+ 	   APPEND AA + output
+	ELSE 
+  	   APPEND BB + output
+	END IF
+
+END FOR
+
+
+
+PRINT output
+
+
+
+
+P5
+
+DECLARE x, tempCalc, result
+
+
+SET sign = -1.0
+READ x
+
+
+INITIALISE Scanner
+
+
+SET result = x
+
+FOR 3 TO 19 STEP 2
+
+	CALCULATE x POWER TO i
+	SET tempCalc with value 
+
+	SET result ADD sign MULTIPLY tempCalc
+
+	INVERT sign
+
+END FOR
+
+PRINT result
+
+
+
+PRINT output
+

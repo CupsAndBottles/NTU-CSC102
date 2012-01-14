@@ -1,0 +1,44 @@
+Script started on Thu 18 Nov 2010 12:35:52 PM SGT
+]0;hp101604@c230:~/csc102/lab7/build/classes[?1034h[hp101604@c230 classes]$ java CiphersApp
+Enter a keyword: zygote
+You have the following options:
+(1) encrypt a plaintext message
+(2) decrypt a ciphertext message
+(3) quit the program
+Enter the number of your choice => 1
+Enter a line of text: zoology
+	plaintext = zoology
+	ciphertext = YMUZHKX
+Enter the number of your choice => 1
+Enter a line of text: aardvark
+	plaintext = aardvark
+	ciphertext = ZYXROEQI
+Enter the number of your choice => 2
+Enter a ciphertext: U YSIQAMMG
+	ciphertext = YSIQAMMG
+	plaintext = zucchini
+Enter the number of your choice => 2
+Enter a ciphertext: ZPIVTINNZSKCW
+	ciphertext = ZPIVTINNZSKCW
+	plaintext = archaeopteryx
+Enter the number of your choice => 3
+Program terminating ...
+]0;hp101604@c230:~/csc102/lab7/build/classes[hp101604@c230 classes]$ java CiphersApp
+Enter a keyword: apple
+You have the following options:
+(1) encrypt a plaintext message
+(2) decrypt a ciphertext message
+(3) quit the program
+Enter the number of your choice => 1
+Enter a line of text: zeppelin
+	plaintext = zeppelin
+	ciphertext = ZTEAILXC
+Enter the number of your choice => 2
+Enter a ciphertext: ZNBFB VGN
+	ciphertext = ZNBFVGN
+	plaintext = zymurgy
+Enter the number of your choice => 3
+Program terminating ...
+]0;hp101604@c230:~/csc102/lab7/build/classes[hp101604@c230 classes]$ exit
+
+Script done on Thu 18 Nov 2010 12:37:33 PM SGT

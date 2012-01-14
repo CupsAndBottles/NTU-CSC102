@@ -1,0 +1,99 @@
+
+>>>>>>> COMMANDS
+
+alias: subsitute lengthy commands with shorter ones
+
+-p 	prints out list of aliases
+
+
+cat : join files and output to stdout
+
+-n 	number lines, useful to show which line of code is a particular statement on.
+
+
+cd : change dir
+
+-L	force symlinks to be followed
+
+
+
+cp : copies files
+
+-l	create symlink instead of physical copy
+
+-v	see what actions are being taken
+
+
+compress : zip up files
+
+-v	show compression percentage
+
+
+
+date : show current date & time
+
+-u	UTC output
+
+
+grep : regex based find util
+
+-r	recursive searching
+
+
+login : logs into the computer
+
+-h	login to a specific host
+-f 	login as another user
+
+
+lp : prints to printer
+
+-q	set job priority
+-n	number of copies
+-d	specify printer
+
+        
+ls : list contents of dir
+
+-a      all files
+-l      long format
+-i      inode number
+
+
+man : show user manual
+
+
+mkdir : creates directory
+
+-m      mode (chmod values)
+
+
+more : paging utility
+
+-s      squeeze multiple blank lines into 1
+-p      pagnate not scroll
+
+
+rm : remove files and or directories
+
+-i      interactive prompt
+
+
+rmdir : remove directories if empty
+
+-p      remove specified parent directories as well
+
+
+script : writes interactive commands to text file
+
+
+
+
+------------------------------------------------------
+
+1: Home directory
+2: Script started, file is TT
+3 - 18 : output from various commands given
+19 : Script stopped, file is TT
+20 : file 'TT' present in directory
+21 : contents of previous interactive session logged into the file

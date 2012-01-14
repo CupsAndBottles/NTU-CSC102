@@ -1,0 +1,65 @@
+Script started on Thu 16 Sep 2010 01:49:03 PM SGT
+]0;hp101604@c137:~[?1034h[hp101604@c137 ~]$ pwd
+/home/student21/hp101604
+]0;hp101604@c137:~[hp101604@c137 ~]$ ls
+[0m[01;34mcsc102[0m           [01;34mDesktop[0m    [01;34mDownloads[0m  [01;34mPictures[0m  [01;34mTemplates[0m  [01;34mVideos[0m
+CSC102 - LAB 1~  [01;34mDocuments[0m  [01;34mMusic[0m      [01;34mPublic[0m    TT
+[m]0;hp101604@c137:~[hp101604@c137 ~]$ mkdir cdc[K[Ksc103[K2
+mkdir: cannot create directory `csc102': File exists
+]0;hp101604@c137:~[hp101604@c137 ~]$ ll
+total 40
+drwxr-xr-x. 6 hp101604 student2 4096 2010-09-16 13:48 [0m[01;34mcsc102[0m
+-rw-r--r--. 1 hp101604 student2 1095 2010-09-16 13:35 CSC102 - LAB 1~
+drwxr-xr-x. 2 hp101604 student2 4096 2010-01-19 11:28 [01;34mDesktop[0m
+drwxr-xr-x. 2 hp101604 student2 4096 2010-09-16 12:40 [01;34mDocuments[0m
+drwxr-xr-x. 2 hp101604 student2 4096 2010-09-16 12:40 [01;34mDownloads[0m
+drwxr-xr-x. 2 hp101604 student2 4096 2010-09-16 12:40 [01;34mMusic[0m
+drwxr-xr-x. 2 hp101604 student2 4096 2010-09-16 12:40 [01;34mPictures[0m
+drwxr-xr-x. 2 hp101604 student2 4096 2010-09-16 12:40 [01;34mPublic[0m
+drwxr-xr-x. 2 hp101604 student2 4096 2010-09-16 12:40 [01;34mTemplates[0m
+-rw-r--r--. 1 hp101604 student2    0 2010-09-16 13:49 TT
+drwxr-xr-x. 2 hp101604 student2 4096 2010-09-16 12:40 [01;34mVideos[0m
+[m]0;hp101604@c137:~[hp101604@c137 ~]$ cd cd[Ksc102/
+]0;hp101604@c137:~/csc102[hp101604@c137 csc102]$ mkdir [K[K[K[K[K[Kll
+total 20
+-rw-r--r--. 1 hp101604 student2 1151 2010-09-16 13:36 CSC102 - LAB 1
+drwxr-xr-x. 2 hp101604 student2 4096 2010-09-16 13:46 [0m[01;34mlab1[0m
+drwxr-xr-x. 2 hp101604 student2 4096 2010-09-16 13:48 [01;34mlab2[0m
+drwxr-xr-x. 2 hp101604 student2 4096 2010-09-16 13:48 [01;34mlab3[0m
+drwxr-xr-x. 2 hp101604 student2 4096 2010-09-16 13:48 [01;34mlab4[0m
+[m]0;hp101604@c137:~/csc102[hp101604@c137 csc102]$ cd lab0
+bash: cd: lab0: No such file or directory
+]0;hp101604@c137:~/csc102[hp101604@c137 csc102]$ mkdir lab0
+]0;hp101604@c137:~/csc102[hp101604@c137 csc102]$ cl[Kd la[K[Klabo[K0
+]0;hp101604@c137:~/csc102/lab0[hp101604@c137 lab0]$ l[Kpp
+bash: pp: command not found
+]0;hp101604@c137:~/csc102/lab0[hp101604@c137 lab0]$ pwd
+/home/student21/hp101604/csc102/lab0
+]0;hp101604@c137:~/csc102/lab0[hp101604@c137 lab0]$ touch myprogram
+]0;hp101604@c137:~/csc102/lab0[hp101604@c137 lab0]$ ll[Ks -l
+total 0
+-rw-r--r--. 1 hp101604 student2 0 2010-09-16 13:52 myprogram
+]0;hp101604@c137:~/csc102/lab0[hp101604@c137 lab0]$ rm myprogram 
+rm: remove regular empty file `myprogram'? y
+]0;hp101604@c137:~/csc102/lab0[hp101604@c137 lab0]$ ll
+total 0
+]0;hp101604@c137:~/csc102/lab0[hp101604@c137 lab0]$ cd..
+bash: cd..: command not found
+]0;hp101604@c137:~/csc102/lab0[hp101604@c137 lab0]$ ce[Kd ..
+]0;hp101604@c137:~/csc102[hp101604@c137 csc102]$ cd
+]0;hp101604@c137:~[hp101604@c137 ~]$ ls -[K-a
+[0m[01;34m.[0m                .dmrc            .gtk-bookmarks   [01;34mPublic[0m
+[01;34m..[0m               [01;34mDocuments[0m        [01;34m.gvfs[0m            [01;34m.pulse[0m
+[01;34m.adobe[0m           [01;34mDownloads[0m        .ICEauthority    .pulse-cookie
+.bash_logout     .esd_auth        [01;34m.icedteaplugin[0m   .recently-used.xbel
+.bash_profile    [01;34m.evolution[0m       [01;34m.kde[0m             [01;34m.ssh[0m
+.bashrc          [01;34m.gconf[0m           [01;34m.local[0m           [01;34mTemplates[0m
+[01;34m.cache[0m           [01;34m.gconfd[0m          [01;34m.macromedia[0m      TT
+[01;34m.config[0m          [01;34m.gnome2[0m          [01;34m.mozilla[0m         [01;34mVideos[0m
+[01;34mcsc102[0m           [01;34m.gnome2_private[0m  [01;34mMusic[0m            .xsession-errors
+CSC102 - LAB 1~  [01;34m.gnote[0m           [01;34m.nautilus[0m        .xsession-errors-:0
+[01;34m.dbus[0m            [01;34m.gnupg[0m           [01;34m.openoffice.org[0m  .zshrc
+[01;34mDesktop[0m          [01;34m.gstreamer-0.10[0m  [01;34mPictures[0m
+[m]0;hp101604@c137:~[hp101604@c137 ~]$ exit
+
+Script done on Thu 16 Sep 2010 01:52:35 PM SGT

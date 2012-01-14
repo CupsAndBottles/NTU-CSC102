@@ -1,0 +1,111 @@
+Script started on Mon 22 Nov 2010 03:55:29 PM SGT
+]0;hp101604@c230:~/csc102/lab6/build/classes[?1034h[hp101604@c230 classes]$ java PlaneApp
+(1) Show number of empty seats
+(2) Show the list of empty seats
+(3) Show the list of seat assignments
+(4) Assign a customer to a seat
+(5) Remove a seat assignment
+(6) Exit
+
+Enter the number of your choice: 
+4
+Assigning Seat ..
+Please Enter SeatID: 10
+Please Enter Customer ID: 10001
+Seat Assigned!
+
+Enter the number of your choice: 
+4
+Assigning Seat ..
+Please Enter SeatID: 12
+Please Enter Customer ID: 0 10002
+Seat Assigned!
+
+Enter the number of your choice: 
+4
+Assigning Seat ..
+Please Enter SeatID: 8
+Please Enter Customer ID: 10003
+Seat Assigned!
+
+Enter the number of your choice: 
+3
+Seat assignments: 
+SeatID 8 assigned to CustomerID 10003
+SeatID 10 assigned to CustomerID 10001
+SeatID 12 assigned to CustomerID 10002
+
+Enter the number of your choice: 
+1
+There are 9 empty seats
+
+Enter the number of your choice: 
+2
+The following seats are empty: 
+SeatID 1
+SeatID 2
+SeatID 3
+SeatID 4
+SeatID 5
+SeatID 6
+SeatID 7
+SeatID 9
+SeatID 11
+
+
+Enter the number of your choice: 
+4
+Assigning Seat ..
+Please Enter SeatID: 8
+Please Enter Customer ID: 10004
+Seat already assigned to a customer.
+
+Enter the number of your choice: 
+5
+Unassigning Seat ..
+Please Enter Seat ID: 10
+Seat Unassigned!
+
+Enter the number of your choice: 
+4
+Assigning Seat ..
+Please Enter SeatID: 12
+Please Enter Customer ID: 10005
+Seat already assigned to a customer.
+
+Enter the number of your choice: 
+5
+Unassigning Seat ..
+Please Enter Seat ID: 12
+Seat Unassigned!
+
+Enter the number of your choice: 
+3
+Seat assignments: 
+SeatID 8 assigned to CustomerID 10003
+
+Enter the number of your choice: 
+1
+There are 11 empty seats
+
+Enter the number of your choice: 
+2
+The following seats are empty: 
+SeatID 1
+SeatID 2
+SeatID 3
+SeatID 4
+SeatID 5
+SeatID 6
+SeatID 7
+SeatID 9
+SeatID 10
+SeatID 11
+SeatID 12
+
+
+Enter the number of your choice: 
+6
+]0;hp101604@c230:~/csc102/lab6/build/classes[hp101604@c230 classes]$ exit
+
+Script done on Mon 22 Nov 2010 03:57:15 PM SGT

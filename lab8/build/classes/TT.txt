@@ -1,0 +1,31 @@
+Script started on Mon 22 Nov 2010 03:50:54 PM SGT
+]0;hp101604@c230:~/csc102/lab8/build/classes[?1034h[hp101604@c230 classes]$ java Lab8p
+]0;hp101604@c230:~/csc102/lab8/build/classes[hp101604@c230 classes]$ cat names.txt
+Alex
+Beckham
+Giggs
+Blanc
+Neville
+Scholls
+Keane
+McDonald
+KennyRoger
+BurgerKing
+AandW
+PHut]0;hp101604@c230:~/csc102/lab8/build/classes[hp101604@c230 classes]$ cat big.txt
+Beckham
+Neville
+Scholls
+McDonald
+KennyRoger
+BurgerKing
+]0;hp101604@c230:~/csc102/lab8/build/classes[hp101604@c230 classes]$ cat small.txt
+Alex
+Giggs
+Blanc
+Keane
+AandW
+PHut
+]0;hp101604@c230:~/csc102/lab8/build/classes[hp101604@c230 classes]$ exit
+
+Script done on Mon 22 Nov 2010 03:51:18 PM SGT

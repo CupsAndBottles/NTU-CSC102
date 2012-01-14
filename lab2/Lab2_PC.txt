@@ -1,0 +1,87 @@
+P1
+
+DECLARE X coord, Y coord, Quadrant
+
+INITIALISE Scanner
+
+READ x coordinate
+READ Y coordinate
+
+
+IF xcoord == 0 AND ycoord == 0
+    SET quadrant = "origin"
+ELSE IF xcoord >= 0 AND ycoord >= 0
+    SET quadrant = "quadrant 1"
+ELSE IF xcoord < 0 AND ycoord > 0
+    SET quadrant = "quadrant 2"
+ELSE IF xcoord <= 0 AND ycoord <= 0
+    SET quadrant = "quadrant 3"
+ELSE
+    SET quadrant = "quadrant 4"
+END IF
+
+
+PRINT quadrant 
+
+
+
+
+P2
+
+
+DECLARE input
+
+INITIALISE Scanner
+
+PRINT input prompt
+READ input
+
+
+IF input IS a
+    PRINT Action movie fan
+ELSE IF input IS c
+    PRINT Comedy movie fan
+ELSE IF input IS d
+    PRINT Drama movie fan
+ELSE
+    PRINT Invalid choice
+END IF
+
+
+
+P3
+
+
+DECLARE salary meritpts grade
+
+INITIALISE Scanner
+
+READ salary
+READ meritpts
+
+
+IF (salary >= 700 && salary <= 899) 
+
+    IF (salary <= 799 && meritpts < 20 ){
+        SET grade = "Grade B"
+    ELSE IF
+        SET grade = "Grade A"
+    END IF
+
+ELSE IF (salary >= 600 && salary <= 799) 
+
+    IF (salary <= 649 && meritpts < 10 )
+        SET grade = "Grade C"
+    ELSE IF
+        SET grade = "Grade B"
+    END IF
+
+ELSE IF (salary >= 500 && salary < 600) 
+    SET grade = "Grade C"
+ELSE
+    SET grade = "Unknown Grade"
+END IF
+
+
+
+PRINT grade 

@@ -1,0 +1,110 @@
+Script started on Thu 23 Sep 2010 01:44:46 PM SGT
+
+New 'c137:3 (hp101604)' desktop is c137:3
+
+Starting applications specified in /home/student21/hp101604/.vnc/xstartup
+Log file is /home/student21/hp101604/.vnc/c137:3.log
+
+]0;hp101604@c137:~/csc102/lab2/build/classes[?1034h[hp101604@c137 classes]$ java P1
+Please enter x coordinate: 
+1
+Please enter y coordinate: 
+1
+(1,1) - quadrant 1
+]0;hp101604@c137:~/csc102/lab2/build/classes[hp101604@c137 classes]$ java P1
+Please enter x coordinate: 
+-1
+Please enter y coordinate: 
+1
+(-1,1) - quadrant 2
+]0;hp101604@c137:~/csc102/lab2/build/classes[hp101604@c137 classes]$ java P1
+Please enter x coordinate: 
+-1
+Please enter y coordinate: 
+-1
+(-1,-1) - quadrant 3
+]0;hp101604@c137:~/csc102/lab2/build/classes[hp101604@c137 classes]$ java P1
+Please enter x coordinate: 
+1
+Please enter y coordinate: 
+-1
+(1,-1) - quadrant 4
+]0;hp101604@c137:~/csc102/lab2/build/classes[hp101604@c137 classes]$ java P1[K2
+Please input a character: 
+a
+Action movie fan
+
+]0;hp101604@c137:~/csc102/lab2/build/classes[hp101604@c137 classes]$ java P2
+APlease input a character: 
+A
+Action movie fan
+
+]0;hp101604@c137:~/csc102/lab2/build/classes[hp101604@c137 classes]$ java P2
+Please input a character: 
+c
+Comedy movie fan
+
+]0;hp101604@c137:~/csc102/lab2/build/classes[hp101604@c137 classes]$ java P2
+Please input a character: 
+C
+Comedy movie fan
+
+]0;hp101604@c137:~/csc102/lab2/build/classes[hp101604@c137 classes]$ java P2
+Please input a character: 
+d
+Drama movie fan
+
+]0;hp101604@c137:~/csc102/lab2/build/classes[hp101604@c137 classes]$ java P2
+Please input a character: 
+D
+Drama movie fan
+
+]0;hp101604@c137:~/csc102/lab2/build/classes[hp101604@c137 classes]$ java P2
+Please input a character: 
+b
+Invalid Choice
+
+]0;hp101604@c137:~/csc102/lab2/build/classes[hp101604@c137 classes]$ java P2
+Please input a character: 
+B
+Invalid Choice
+
+]0;hp101604@c137:~/csc102/lab2/build/classes[hp101604@c137 classes]$ java P2[K#[K3
+Please enter salary: 
+500
+Please enter merit points: 
+10
+Grade C
+]0;hp101604@c137:~/csc102/lab2/build/classes[hp101604@c137 classes]$ java P3
+Please enter salary: 
+610
+Please enter merit points: 
+5
+Grade C
+]0;hp101604@c137:~/csc102/lab2/build/classes[hp101604@c137 classes]$ java P3
+Please enter salary: 
+610
+Please enter merit points: 
+10
+Grade B
+]0;hp101604@c137:~/csc102/lab2/build/classes[hp101604@c137 classes]$ java P3
+Please enter salary: 
+710
+Please enter merit points: 
+15
+Grade B
+]0;hp101604@c137:~/csc102/lab2/build/classes[hp101604@c137 classes]$ java P3
+Please enter salary: 
+710
+Please enter merit points: 
+20
+Grade A
+]0;hp101604@c137:~/csc102/lab2/build/classes[hp101604@c137 classes]$ java P3
+Please enter salary: 
+800
+Please enter merit points: 
+30
+Grade A
+]0;hp101604@c137:~/csc102/lab2/build/classes[hp101604@c137 classes]$ exit
+
+Script done on Thu 23 Sep 2010 01:48:37 PM SGT

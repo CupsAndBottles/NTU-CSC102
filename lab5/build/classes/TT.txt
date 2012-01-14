@@ -1,0 +1,327 @@
+Script started on Mon 22 Nov 2010 03:58:56 PM SGT
+]0;hp101604@c230:~/csc102/lab5/build/classes[?1034h[hp101604@c230 classes]$ ls[K[Kjava Lab5p
+Perform the following methods:
+1: initialize
+2: insert
+3: remove
+4: display
+5: quit
+Please enter choice (1 - 5): 
+1
+Enter Max 10 integers seperated by ' ' to initialise or '#' to go back to menu: 1 5 10
+[1] - 1
+[2] - 5
+[3] - 10
+
+Perform the following methods:
+1: initialize
+2: insert
+3: remove
+4: display
+5: quit
+Please enter choice (1 - 5): 
+4
+[1] - 1
+[2] - 5
+[3] - 10
+
+Perform the following methods:
+1: initialize
+2: insert
+3: remove
+4: display
+5: quit
+Please enter choice (1 - 5): 
+2
+Number to insert : 0
+[1] - 0
+[2] - 1
+[3] - 5
+[4] - 10
+
+Perform the following methods:
+1: initialize
+2: insert
+3: remove
+4: display
+5: quit
+Please enter choice (1 - 5): 
+4
+[1] - 0
+[2] - 1
+[3] - 5
+[4] - 10
+
+Perform the following methods:
+1: initialize
+2: insert
+3: remove
+4: display
+5: quit
+Please enter choice (1 - 5): 
+2
+Number to insert : 15
+[1] - 0
+[2] - 1
+[3] - 5
+[4] - 10
+[5] - 15
+
+Perform the following methods:
+1: initialize
+2: insert
+3: remove
+4: display
+5: quit
+Please enter choice (1 - 5): 
+4
+[1] - 0
+[2] - 1
+[3] - 5
+[4] - 10
+[5] - 15
+
+Perform the following methods:
+1: initialize
+2: insert
+3: remove
+4: display
+5: quit
+Please enter choice (1 - 5): 
+2
+Number to insert : 7
+[1] - 0
+[2] - 1
+[3] - 5
+[4] - 7
+[5] - 10
+[6] - 15
+
+Perform the following methods:
+1: initialize
+2: insert
+3: remove
+4: display
+5: quit
+Please enter choice (1 - 5): 
+4
+[1] - 0
+[2] - 1
+[3] - 5
+[4] - 7
+[5] - 10
+[6] - 15
+
+Perform the following methods:
+1: initialize
+2: insert
+3: remove
+4: display
+5: quit
+Please enter choice (1 - 5): 
+1
+Enter Max 10 integers seperated by ' ' to initialise or '#' to go back to menu: #
+[1] - 0
+[2] - 1
+[3] - 5
+[4] - 7
+[5] - 10
+[6] - 15
+
+Perform the following methods:
+1: initialize
+2: insert
+3: remove
+4: display
+5: quit
+Please enter choice (1 - 5): 
+4
+[1] - 0
+[2] - 1
+[3] - 5
+[4] - 7
+[5] - 10
+[6] - 15
+
+Perform the following methods:
+1: initialize
+2: insert
+3: remove
+4: display
+5: quit
+Please enter choice (1 - 5): 
+2
+Number to insert : 20
+[1] - 0
+[2] - 1
+[3] - 5
+[4] - 7
+[5] - 10
+[6] - 15
+[7] - 20
+
+Perform the following methods:
+1: initialize
+2: insert
+3: remove
+4: display
+5: quit
+Please enter choice (1 - 5): 
+2
+Number to insert : 40
+[1] - 0
+[2] - 1
+[3] - 5
+[4] - 7
+[5] - 10
+[6] - 15
+[7] - 20
+[8] - 40
+
+Perform the following methods:
+1: initialize
+2: insert
+3: remove
+4: display
+5: quit
+Please enter choice (1 - 5): 
+2
+Number to insert : 60
+[1] - 0
+[2] - 1
+[3] - 5
+[4] - 7
+[5] - 10
+[6] - 15
+[7] - 20
+[8] - 40
+[9] - 60
+
+Perform the following methods:
+1: initialize
+2: insert
+3: remove
+4: display
+5: quit
+Please enter choice (1 - 5): 
+2
+Number to insert : 80
+[1] - 0
+[2] - 1
+[3] - 5
+[4] - 7
+[5] - 10
+[6] - 15
+[7] - 20
+[8] - 40
+[9] - 60
+[10] - 80
+
+Perform the following methods:
+1: initialize
+2: insert
+3: remove
+4: display
+5: quit
+Please enter choice (1 - 5): 
+2
+Number to insert : 100
+ERROR! Array is full. Please remove some elements before inserting.
+[1] - 0
+[2] - 1
+[3] - 5
+[4] - 7
+[5] - 10
+[6] - 15
+[7] - 20
+[8] - 40
+[9] - 60
+[10] - 80
+
+Perform the following methods:
+1: initialize
+2: insert
+3: remove
+4: display
+5: quit
+Please enter choice (1 - 5): 
+3
+Number to remove : 500
+ERROR! Specified number not found in array.
+[1] - 0
+[2] - 1
+[3] - 5
+[4] - 7
+[5] - 10
+[6] - 15
+[7] - 20
+[8] - 40
+[9] - 60
+[10] - 80
+
+Perform the following methods:
+1: initialize
+2: insert
+3: remove
+4: display
+5: quit
+Please enter choice (1 - 5): 
+3
+Number to remove : 82 0
+[1] - 0
+[2] - 1
+[3] - 5
+[4] - 7
+[5] - 10
+[6] - 15
+[7] - 20
+[8] - 40
+[9] - 60
+
+Perform the following methods:
+1: initialize
+2: insert
+3: remove
+4: display
+5: quit
+Please enter choice (1 - 5): 
+3
+Number to remove : 15
+[1] - 0
+[2] - 1
+[3] - 5
+[4] - 7
+[5] - 10
+[6] - 20
+[7] - 40
+[8] - 60
+
+Perform the following methods:
+1: initialize
+2: insert
+3: remove
+4: display
+5: quit
+Please enter choice (1 - 5): 
+3
+Number to remove : 0
+[1] - 1
+[2] - 5
+[3] - 7
+[4] - 10
+[5] - 20
+[6] - 40
+[7] - 60
+
+Perform the following methods:
+1: initialize
+2: insert
+3: remove
+4: display
+5: quit
+Please enter choice (1 - 5): 
+5
+Program terminating ....
+]0;hp101604@c230:~/csc102/lab5/build/classes[hp101604@c230 classes]$ exit
+
+Script done on Mon 22 Nov 2010 04:01:56 PM SGT
